@@ -1,6 +1,8 @@
 # Quasi_Poisson_Regression
 Quasi-Poisson Regression Use glm With (In) R Software
 
+https://www.youtube.com/watch?v=YoatxiJtmtg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
